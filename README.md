@@ -180,11 +180,11 @@ VMware
 
 ## 📫 Contato
 
-LinkedIn
+LinkedIn www.linkedin.com/in/jefferson-lima-silva-b931b9116
 
-Email
+Email jeffersonlima10.jls@gmail.com
 
-GitHub
+GitHub https://github.com/Jeff-Lima94
 
 <p align="center">
 
