@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Jefferson Lima Silva</h1>
 
 <h3 align="center">
-Linux Infrastructure Engineer • Cloud • SRE • DevOps
+Linux Infrastructure Administrator • Cloud • SRE • DevOps
 </h3>
 
 <p align="center">
